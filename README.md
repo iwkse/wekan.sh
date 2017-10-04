@@ -1,0 +1,2 @@
+# wekan.sh
+Wekan installer
